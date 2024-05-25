@@ -1,7 +1,8 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-[<img alt="Fast BOT" src="https://img.shields.io/badge/FastBot-8A2BE2">](https://github.com/GyverLibs/FastBot)
 ![ESP8266](https://img.shields.io/badge/ESP8266-8A2BE2)
 ![WOL](https://img.shields.io/badge/WakeOnLan-8A2BE2)
+[<img alt="Fast BOT" src="https://img.shields.io/badge/FastBot-8A2BE2">](https://github.com/GyverLibs/FastBot)
+
 <div align="center">
   <h1>ESP8266 Wake On Lan Telegram Bot</h1>
 </div>
