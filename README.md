@@ -1,3 +1,7 @@
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Fast BOT](https://img.shields.io/badge/FastBot-8A2BE2)
+![ESP8266](https://img.shields.io/badge/ESP8266-8A2BE2)
+![WOL](https://img.shields.io/badge/WakeOnLan-8A2BE2)
 <div align="center">
   <h1>ESP8266 Wake On Lan Telegram Bot</h1>
 </div>
