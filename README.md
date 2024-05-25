@@ -18,8 +18,6 @@ This is a sketch for the ESP8266 board. The telegram bot is hosted on the board 
 - Compile and flash
 
 ## ⚙️ Config
-
-Passwords and sensitive data are stored in the `secrets.h` file. Save the file in a folder according to the template:
 ```c++
 #define WIFI_SSID "WIFI_SSID"
 #define WIFI_PASS "WIFI_PASS"
